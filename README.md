@@ -1,4 +1,4 @@
-# Drm-project-basic-to-advanced
+# Drf-project-basic-to-advanced
 Django Restfull framework 
 It is an project bulids on django rest framework with Oauth and more to add 
 
